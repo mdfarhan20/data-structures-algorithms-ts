@@ -5,6 +5,7 @@ This repository contains implementations of various data structures and algorith
 ## Implemented Data Structures
 
 - **Linked List**: Singly linked list with basic operations.
+- **Stack**: Stack with basic operations.
 
 <!-- ## Implemented Algorithms
 
