@@ -1,0 +1,17 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "description": "Data structures and Algorithms using Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node dist/index",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.5.4",
+    "typescript": "^5.5.4"
+  }
+}
