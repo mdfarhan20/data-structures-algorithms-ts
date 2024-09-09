@@ -1,11 +1,9 @@
-import { LinkedList } from "./data-structures/linked-list";
+import { Stack } from "./data-structures/stack";
 
-const list = new LinkedList<number>();
-
-list.print();
-list.insertLast(1);
-list.insertLast(2);
-list.insertFirst(3);
-list.insert(10, 0);
-list.delete(1);
-list.print();
+const stack = new Stack();
+stack.push(1);
+stack.push(2);
+stack.pop();
+stack.pop();
+stack.pop();
+stack.print();

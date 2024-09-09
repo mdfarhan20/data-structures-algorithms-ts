@@ -116,6 +116,14 @@ export class LinkedList<T> {
     return deleted;
   }
 
+  getHead(): Node<T> | null {
+    return this.head;
+  }
+
+  getLength(): number {
+    return this.length;
+  }
+
   print(): void {
     let temp = this.head;
     let list = '';
