@@ -1,9 +1,13 @@
-import { Stack } from "./data-structures/stack";
+import { DoublyLinkedList } from "./data-structures/linked-lists/doubly-linked-list";
 
-const stack = new Stack();
-stack.push(1);
-stack.push(2);
-stack.pop();
-stack.pop();
-stack.pop();
-stack.print();
+
+const list = new DoublyLinkedList<string>();
+
+list.insertLast("Hello");
+list.insertLast("Say");
+list.insertFirst("World!");
+list.print();
+
+list.insert("New", 3);
+list.delete(3)
+list.print();
