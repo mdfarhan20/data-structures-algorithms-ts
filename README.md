@@ -7,15 +7,14 @@ This repository contains implementations of various data structures and algorith
 - **Linked List**: Singly linked list with basic operations.
 - **Stack**: Stack with basic operations using Linked List.
 
-<!-- ## Implemented Algorithms
+## Implemented Algorithms
 
-- **Sorting Algorithms**:
+<!-- - **Sorting Algorithms**:
   - Bubble Sort
   - Merge Sort
-  - Quick Sort
+  - Quick Sort -->
 - **Searching Algorithms**:
   - Binary Search
-  - Linear Search -->
 
 ## Getting Started
 
