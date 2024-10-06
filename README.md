@@ -11,6 +11,7 @@ This repository contains implementations of various data structures and algorith
 
 - **Sorting Algorithms**:
   - Selection Sort
+  - Bubble Sort
 
 - **Searching Algorithms**:
   - Binary Search
