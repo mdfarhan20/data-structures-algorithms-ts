@@ -9,10 +9,9 @@ This repository contains implementations of various data structures and algorith
 
 ## Implemented Algorithms
 
-<!-- - **Sorting Algorithms**:
-  - Bubble Sort
-  - Merge Sort
-  - Quick Sort -->
+- **Sorting Algorithms**:
+  - Selection Sort
+
 - **Searching Algorithms**:
   - Binary Search
 
