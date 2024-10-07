@@ -1,4 +1,10 @@
 // Selects the smallest element and brings it to the front by swapping
+
+// Complexity Analysis
+// Time Complexity: O(n^2) - Worst Case
+// Time Complexity: O(n^2) - Best Case
+// Space Complexity: O(1)
+
 function selectionSort(array: number[]) {
   for (let i = 0; i < array.length; i++) {
     let min = i;

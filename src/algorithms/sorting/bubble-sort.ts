@@ -1,5 +1,10 @@
 // Repeatedly iterates over the array checking for unsorted consecutive pairs and swaps them
 
+// Complexity Analysis
+// Time Complexity: O(n^2) - Worst Case
+// Time Complexity: O(n) - Best Case
+// Space Complexity: O(1)
+
 function bubbleSort(array: number[]) {
   // The last element will be in sorted order after each iteration
   for (let i = array.length - 1; i >= 0; i--) {
