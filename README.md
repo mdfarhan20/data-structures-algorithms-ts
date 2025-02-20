@@ -6,6 +6,7 @@ This repository contains implementations of various data structures and algorith
 
 - **Linked List**: Singly linked list with basic operations.
 - **Stack**: Stack with basic operations using Linked List.
+- **Binary Search Tree**: Binary Search Tree with basic operations
 
 ## Implemented Algorithms
 
